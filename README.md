@@ -1,6 +1,6 @@
 # Last Letter Game
 
-Java Socket programming is used for communication between the applications running on different JRE. Therefore, this project shows  an example of the Socket in Last Letter game.
+Java Socket programming is used for communication between the applications running on different JRE. Therefore, this project shows  an example of the socket in Last Letter game.
 
 This repo contains:
 
